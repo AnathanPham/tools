@@ -1,6 +1,6 @@
 {
   "name": "huangbangsheng-tools",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/AnathanPham/tools.git"
   },
   "author": "huangbangsheng",
   "license": "ISC"
